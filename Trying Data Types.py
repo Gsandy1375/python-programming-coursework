@@ -21,7 +21,8 @@ print("You entered the string:", user_str)
 print("You entered the integer:", user_int)
 print("You entered the float:", user_float)
 
-# This outputs the type () function that was inputted
+# This outputs the type () of function that was inputted
 print("The type of user_str is:", type(user_str))
 print("The type of user_int is:", type(user_int))
+
 print("The type of user_float is:", type(user_float))
