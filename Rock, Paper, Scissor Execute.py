@@ -1,4 +1,4 @@
-# This program plays the classic game of Rock, Paper, Scissors where the user can play against the program
+# This script plays the classic game of Rock, Paper, Scissors where the user can play against the program
 # Given the user's input a random choice will be genereated by the program
 # The program will loop until the user wins against the program
 
@@ -46,3 +46,4 @@ while not user_won:
     # If a victor or tie is not had then this will attempt for a retrial
     else:
         print("You lost. Try again!\n")
+
